@@ -12,3 +12,10 @@ Este projeto demonstra a implementação prática de uma esteira de **DevSecOps*
 1. **Identificação**: O pipeline detectou uma senha estática no `app.py` e um pacote Django vulnerável no `requirements.txt`.
 2. **Remediação**: O código foi corrigido utilizando variáveis de ambiente (`os.getenv`) e as dependências foram atualizadas para versões seguras.
 3. **Validação**: A esteira rodou novamente sobre o código limpo, validando o sucesso da correção de segurança com sucesso absoluto.
+
+Responsável:
+
+Natan
+
+Estudante de Engenharia de Software
+Futuro Especialista e Engenheiro de Segurança Cibernética
